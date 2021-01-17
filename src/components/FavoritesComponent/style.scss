@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.image-wrapper {
+    width: 200px;
+    margin-left: 10px;
+
+    img {
+        width: 100%;
+    }
+}
